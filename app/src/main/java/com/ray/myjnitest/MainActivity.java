@@ -8,6 +8,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * by Lu
+ */
 public class MainActivity extends AppCompatActivity {
 
     private JNI jni;
