@@ -9,7 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * by Lu1
+ * by Lu
  */
 public class MainActivity extends AppCompatActivity {
 
